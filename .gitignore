@@ -1,0 +1,6 @@
+#IDE setting
+.idea
+
+#Python compiled files
+__pycache__
+*.pyc
