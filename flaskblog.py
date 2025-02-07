@@ -1,7 +1,6 @@
 from flask import Flask, render_template, url_for, flash, redirect
 from flask_sqlalchemy import SQLAlchemy
 from sqlalchemy.orm import backref
-
 from forms import RegistrationForm, LoginForm
 from datetime import datetime
 
