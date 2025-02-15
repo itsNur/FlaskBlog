@@ -72,7 +72,7 @@ a.article-title:hover {
   height: 125px;
   width: 125px;
   margin-right: 20px;
-  margin-bottom: 16px;
+  margin-bottom: 0px;
 }
 
 .account-heading {
@@ -81,4 +81,27 @@ a.article-title:hover {
 
 .form-group {
     margin-bottom: 1rem; /* Space between form groups */
+}
+
+.media {
+    display: flex; /* Align items horizontally */
+    align-items: center; /* Vertically center the content */
+}
+
+.media-body {
+    margin-left: 30px; /* Optional: Add more space between the image and text */
+}
+
+.form-control-file {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-gap: 10px;
+}
+
+.form-control-file label {
+  grid-column: 1
+}
+
+.form-control-file input[type="file"] {
+  grid-column: 2;
 }
