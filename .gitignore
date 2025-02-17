@@ -7,3 +7,6 @@ __pycache__
 
 #Virtual environment
 .venv
+
+#Temporary or backup files
+*~
