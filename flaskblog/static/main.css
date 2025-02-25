@@ -85,7 +85,7 @@ a.article-title:hover {
 
 .media {
     display: flex; /* Align items horizontally */
-    align-items: center; /* Vertically center the content */
+    align-items: left; /* Vertically center the content */
 }
 
 .media-body {
