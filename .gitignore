@@ -10,3 +10,6 @@ __pycache__
 
 #Temporary or backup files
 *~
+
+#Environment files
+.env
