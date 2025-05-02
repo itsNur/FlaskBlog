@@ -1,4 +1,4 @@
-# ThoughtForge 📜ᝰ🪶
+# ThoughtForge 📜🪶
 
 A personal blogging platform built with Flask.  
 Features user authentication, profile images, post creation/editing, and pagination.
