@@ -20,3 +20,17 @@ This is my first full-stack project — a mini content management system built f
 - HTML/CSS
 
 ## How to run
+1. Clone the repository:
+git clone https://github.com/itsNur/ThoughtForge.git cd ThoughtForge
+
+3. (Optional) Create and activate a virtual environment:
+python -m venv venv source venv/bin/activate # On Windows: venv\Scripts\activate
+
+3. Install dependencies:
+pip install -r requirements.txt
+
+4. Run the application:
+python run.py
+
+5. Open your browser and go to:
+http://127.0.0.1:5000/
